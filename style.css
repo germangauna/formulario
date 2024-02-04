@@ -65,8 +65,11 @@ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
 }
 
 body{
-    background-image: url(/multimedia/nube-blanca-cielo-azul_74190-2381.avif);
+    background-image: url(/multimedia/nube-blanca-cielo-azul_74190-2381.avif) ;
+    background-repeat: no-repeat;
+    background-size:cover;
     width: 100%;
+
 }
 
 
